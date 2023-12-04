@@ -1,6 +1,5 @@
 
 <h2>Hi there, I'm Surya Chaudhary. 👋 </h2> <br>
-<span>A blockchain enthusiast from Nepal.</span>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
