@@ -1,9 +1,9 @@
 <div align="center">
-<br><br><br>
+
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&color=000000&size=35&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Surya+Chaudhary.+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<br><br><br>
+
 </div>
 <p align="center">A technophile who loves learning, exploring new paradigms, and solving problems.</p>
 <h3 align="center">Connect with me</h3>
